@@ -1,0 +1,25 @@
+{
+  "name": "mystopshop",
+  "version": "1.0.0",
+  "description": "Clothe store",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenedictaUche/mystopshop.git"
+  },
+  "keywords": [
+    "stopshop"
+  ],
+  "author": "Benedicta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenedictaUche/mystopshop/issues"
+  },
+  "homepage": "https://github.com/BenedictaUche/mystopshop#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
